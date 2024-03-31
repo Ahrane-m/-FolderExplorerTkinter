@@ -1,0 +1,15 @@
+{
+  "root_folder": {
+    "subfolder1": {
+      "file1.txt": "File 1",
+      "file2.txt": "File 2"
+    },
+    "subfolder2": {
+      "file3.txt": "File 3",
+      "subsubfolder": {
+        "file4.txt": "File 4"
+      }
+    },
+    "file5.txt": "File 5"
+  }
+}
